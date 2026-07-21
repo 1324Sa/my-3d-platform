@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+pillow
+rembg
+trimesh
+PyMCubes
+einops
+omegaconf
+transformers
+huggingface_hub
+python-multipart
