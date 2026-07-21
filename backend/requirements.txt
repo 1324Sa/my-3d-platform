@@ -4,7 +4,8 @@ torch
 torchvision
 torchaudio
 pillow
-rembg
+rembg[cpu]
+onnxruntime
 trimesh
 PyMCubes
 einops
