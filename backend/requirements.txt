@@ -5,3 +5,5 @@ python-multipart
 pillow
 pydantic
 requests
+rembg[cpu]
+onnxruntime
